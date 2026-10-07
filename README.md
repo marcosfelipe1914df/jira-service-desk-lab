@@ -67,7 +67,23 @@ A exportação apresentou saldos negativos de SLA de primeira resposta nos quatr
 
 ## Evidências
 
-As capturas serão adicionadas à pasta `docs/images/`. Elas mostrarão as configurações e o histórico de atendimento, com dados pessoais e informações sensíveis ocultados antes da publicação.
+[Veja a galeria completa com 20 capturas do laboratório](docs/images/README.md): dashboard, filas, atendimento do ERP, formulário de triagem, SLA, automações e base de conhecimento.
+
+### Dashboard operacional
+
+![Dashboard com total de chamados e prioridades](docs/images/01-dashboard-prioridades.jpg)
+
+### Automação de prioridade
+
+O registro de auditoria confirma a execução bem-sucedida da regra no SDTI-6. Esse chamado foi criado apenas para teste.
+
+![Execução da automação no SDTI-6](docs/images/16-automacao-auditoria.jpg)
+
+### Base de conhecimento
+
+![Artigos de solução no Jira](docs/images/18-base-conhecimento.jpg)
+
+As capturas foram realizadas em 7 de outubro de 2026. Os objetivos de SLA variam conforme a categoria da solicitação; as metas de Incidents mostradas na galeria não se aplicam automaticamente a todos os chamados.
 
 ## Aprendizados
 
